@@ -1,2 +1,1 @@
-# img
-图床
+# LeetCode JavaScript
